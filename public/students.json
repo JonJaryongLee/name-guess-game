@@ -1,0 +1,139 @@
+{
+  "year": 10,
+  "location-code": "GJ",
+  "class-name": "embedded",
+  "class-num": 6,
+  "students": [
+    {
+      "id": 1,
+      "name": "고광현",
+      "img_name": "1_ggh.jpg"
+    },
+    {
+      "id": 2,
+      "name": "김건오",
+      "img_name": "2_kgo.jpg"
+    },
+    {
+      "id": 3,
+      "name": "김민영",
+      "img_name": "3_kmy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "김민주",
+      "img_name": "4_kmj.jpg"
+    },
+    {
+      "id": 5,
+      "name": "김민형",
+      "img_name": "5_kmh.jpg"
+    },
+    {
+      "id": 6,
+      "name": "김지현",
+      "img_name": "6_kjh.jpg"
+    },
+    {
+      "id": 7,
+      "name": "김희주",
+      "img_name": "7_khj.jpg"
+    },
+    {
+      "id": 8,
+      "name": "류성제",
+      "img_name": "8_rsj.jpg"
+    },
+    {
+      "id": 9,
+      "name": "박미성",
+      "img_name": "9_pms.jpg"
+    },
+    {
+      "id": 10,
+      "name": "선상범",
+      "img_name": "10_ssb.jpg"
+    },
+    {
+      "id": 11,
+      "name": "송강산",
+      "img_name": "11_sgs.jpg"
+    },
+    {
+      "id": 12,
+      "name": "송하은",
+      "img_name": "12_shu.jpg"
+    },
+    {
+      "id": 13,
+      "name": "안지용",
+      "img_name": "13_ajy.jpg"
+    },
+    {
+      "id": 14,
+      "name": "양성호",
+      "img_name": "14_ysh.jpg"
+    },
+    {
+      "id": 15,
+      "name": "오승엽",
+      "img_name": "15_osy.jpg"
+    },
+    {
+      "id": 16,
+      "name": "유명렬",
+      "img_name": "16_ymr.jpg"
+    },
+    {
+      "id": 17,
+      "name": "유하림",
+      "img_name": "17_yhr.jpg"
+    },
+    {
+      "id": 18,
+      "name": "이정민",
+      "img_name": "18_ljm.jpg"
+    },
+    {
+      "id": 19,
+      "name": "이주현",
+      "img_name": "19_ljh.jpg"
+    },
+    {
+      "id": 20,
+      "name": "이주호",
+      "img_name": "20_ljh.jpg"
+    },
+    {
+      "id": 21,
+      "name": "이준기",
+      "img_name": "21_ljg.jpg"
+    },
+    {
+      "id": 22,
+      "name": "이현진",
+      "img_name": "22_lhj.jpg"
+    },
+    {
+      "id": 23,
+      "name": "임채진",
+      "img_name": "23_icj.jpg"
+    },
+    {
+      "id": 24,
+      "name": "한상명",
+      "img_name": "24_hsm.jpg"
+    },
+    {
+      "id": 25,
+      "name": "현상균",
+      "img_name": "25_hsg.jpg"
+    },
+    {
+      "id": 26,
+      "name": "서준원",
+      "img_name": "26_sjw.jpg"
+    }
+  ],
+  "count": 25
+}
