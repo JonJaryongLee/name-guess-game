@@ -9,7 +9,7 @@ function imgSrc(imgName) {
 }
 async function getStudents() {
   try {
-    const response = await axios.get("students.json");
+    const response = await axios.get("students_current.json");
     students.value = response.data.students;
   } catch (error) {
     console.error(error);
@@ -19,26 +19,25 @@ getStudents();
 </script>
 
 <template>
-  <h1>SSAFY 10기 광주 6반</h1>
-  <ul class="list-container" v-if="students.length">
-    <li class="each-li" v-for="student in students" :key="student.id">
-      <p>{{ student.name }}</p>
-      <img
-        :src="imgSrc(student.img_name)"
-        :alt="student.img_name"
-        height="120"
-      >
-    </li>
-  </ul>
-  <p v-else>loading...</p>
+  <div v-if="students.length" class="container">
+    <ul class="d-flex flex-wrap justify-content-center">
+      <li class="m-2" v-for="student in students" :key="student.id">
+        <img
+          :src="imgSrc(student.img_name)"
+          :alt="student.img_name"
+          class="student-img img-thumbnail img-fluid"
+        />
+        <p class="text-center">{{ student.name }}</p>
+      </li>
+    </ul>
+  </div>
+  <p v-else class="text-center">loading...</p>
 </template>
 
 <style scoped>
-.list-container {
-  display: flex;
-  flex-wrap: wrap;
-}
-.each-li {
-  margin: 10px;
+.student-img {
+  height: 120px;
+  width: 120px;
+  object-fit: cover;
 }
 </style>
