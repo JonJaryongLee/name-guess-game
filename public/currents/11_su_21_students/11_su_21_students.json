@@ -1,0 +1,140 @@
+{
+    "year": 11,
+    "location-code": "SW",
+    "class-name": "embedded",
+    "class-num": 21,
+    "students": [
+      {
+        "id": 1,
+        "name": "강수현",
+        "img_name": "1_gsh.jpg"
+      },
+      {
+        "id": 2,
+        "name": "강형남",
+        "img_name": "2_khn.jpg"
+      },
+      {
+        "id": 3,
+        "name": "권오율",
+        "img_name": "3_koy.jpg"
+      },
+      {
+        "id": 4,
+        "name": "권주안",
+        "img_name": "4_kja.jpg"
+      },
+      {
+        "id": 5,
+        "name": "김경빈",
+        "img_name": "5_kkb.jpg"
+      },
+      {
+        "id": 6,
+        "name": "김도엽",
+        "img_name": "6_kdy.jpg"
+      },
+      {
+        "id": 7,
+        "name": "김보성",
+        "img_name": "7_kbs.jpg"
+      },
+      {
+        "id": 8,
+        "name": "김세은",
+        "img_name": "8_kse.jpg"
+      },
+      {
+        "id": 9,
+        "name": "김인실",
+        "img_name": "9_kis.jpg"
+      },
+      {
+        "id": 10,
+        "name": "김호준",
+        "img_name": "10_khj.jpg"
+      },
+      {
+        "id": 11,
+        "name": "류성윤",
+        "img_name": "11_rsy.jpg"
+      },
+      {
+        "id": 12,
+        "name": "박상빈",
+        "img_name": "12_psb.jpg"
+      },
+      {
+        "id": 13,
+        "name": "배윤재",
+        "img_name": "13_byj.jpg"
+      },
+      {
+        "id": 14,
+        "name": "백승우",
+        "img_name": "14_bsu.jpg"
+      },
+      {
+        "id": 15,
+        "name": "손승우",
+        "img_name": "15_ssu.jpg"
+      },
+      {
+        "id": 16,
+        "name": "신민섭",
+        "img_name": "16_sms.jpg"
+      },
+      {
+        "id": 17,
+        "name": "안한서",
+        "img_name": "17_ahs.jpg"
+      },
+      {
+        "id": 18,
+        "name": "윤지욱",
+        "img_name": "18_yju.jpg"
+      },
+      {
+        "id": 19,
+        "name": "이가은",
+        "img_name": "19_lgu.jpg"
+      },
+      {
+        "id": 20,
+        "name": "이상미",
+        "img_name": "20_lsm.jpg"
+      },
+      {
+        "id": 21,
+        "name": "이진희",
+        "img_name": "21_ljh.jpg"
+      },
+      {
+        "id": 22,
+        "name": "이찬희",
+        "img_name": "22_lch.jpg"
+      },
+      {
+        "id": 23,
+        "name": "전재영",
+        "img_name": "23_jjy.jpg"
+      },
+      {
+        "id": 24,
+        "name": "정노원",
+        "img_name": "24_jnw.jpg"
+      },
+      {
+        "id": 25,
+        "name": "최준기",
+        "img_name": "25_cjk.jpg"
+      },
+      {
+        "id": 26,
+        "name": "한동민",
+        "img_name": "26_hdm.jpg"
+      }
+    ],
+    "count": 26
+  }
+  

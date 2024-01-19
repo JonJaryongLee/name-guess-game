@@ -2,14 +2,16 @@
 import axios from "axios";
 import { ref } from "vue";
 
+const CLASS_NAME = import.meta.env.VITE_APP_CLASS_NAME;
+const PATH = `/currents/${CLASS_NAME}`;
 const students = ref([]);
 
 function imgSrc(imgName) {
-  return `imgs/${imgName}`;
+  return `${PATH}/imgs/${imgName}`;
 }
 async function getStudents() {
   try {
-    const response = await axios.get("students_current.json");
+    const response = await axios.get(`${PATH}/${CLASS_NAME}.json`);
     students.value = response.data.students;
   } catch (error) {
     console.error(error);

@@ -6,7 +6,7 @@ import { RouterLink, RouterView } from "vue-router";
   <header class="p-3 bg-dark text-white">
     <nav class="navbar navbar-expand-lg navbar-dark">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">11기 서울 21반 출석부</a>
+        <a class="navbar-brand" href="#">11기 광주 6반 출석부</a>
         <b-navbar-toggle target="navbarNav"></b-navbar-toggle>
         <b-collapse id="navbarNav" is-nav>
           <ul class="navbar-nav">

@@ -2,6 +2,8 @@
 import axios from "axios";
 import { ref } from "vue";
 
+const CLASS_NAME = import.meta.env.VITE_APP_CLASS_NAME;
+const PATH = `/currents/${CLASS_NAME}`;
 const students = ref([]);
 const randomStudent = ref({});
 const randomIndex = ref(-1);
@@ -9,7 +11,7 @@ const isReady = ref(false);
 const userInput = ref("");
 
 function imgSrc(imgName) {
-  return `imgs/${imgName}`;
+  return `${PATH}/imgs/${imgName}`;
 }
 function getRandomStudent() {
   randomIndex.value = Math.floor(Math.random() * students.value.length);
@@ -17,7 +19,7 @@ function getRandomStudent() {
 }
 async function getStudents() {
   try {
-    const response = await axios.get("students_current.json");
+    const response = await axios.get(`${PATH}/${CLASS_NAME}.json`);
     students.value = response.data.students;
     getRandomStudent();
     isReady.value = true;

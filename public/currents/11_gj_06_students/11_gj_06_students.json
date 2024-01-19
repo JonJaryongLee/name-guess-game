@@ -1,0 +1,114 @@
+{
+  "year": 11,
+  "location-code": "GJ",
+  "class-name": "embedded",
+  "class-num": 6,
+  "students": [
+    {
+      "id": 1,
+      "name": "강민준",
+      "img_name": "1_kmj.jpg"
+    },
+    {
+      "id": 2,
+      "name": "강효린",
+      "img_name": "2_ghr.jpg"
+    },
+    {
+      "id": 3,
+      "name": "김건희",
+      "img_name": "3_kgh.jpg"
+    },
+    {
+      "id": 4,
+      "name": "김남균",
+      "img_name": "4_knk.jpg"
+    },
+    {
+      "id": 5,
+      "name": "김성민",
+      "img_name": "5_ksm.jpg"
+    },
+    {
+      "id": 6,
+      "name": "김송은",
+      "img_name": "6_ksu.jpg"
+    },
+    {
+      "id": 7,
+      "name": "김채민",
+      "img_name": "7_kcm.jpg"
+    },
+    {
+      "id": 8,
+      "name": "문준석",
+      "img_name": "8_mjs.jpg"
+    },
+    {
+      "id": 9,
+      "name": "박건국",
+      "img_name": "9_pgg.jpg"
+    },
+    {
+      "id": 10,
+      "name": "백기백",
+      "img_name": "10_bgb.jpg"
+    },
+    {
+      "id": 11,
+      "name": "양동현",
+      "img_name": "11_ydh.jpg"
+    },
+    {
+      "id": 12,
+      "name": "여현대",
+      "img_name": "12_yhd.jpg"
+    },
+    {
+      "id": 13,
+      "name": "오혜성",
+      "img_name": "13_ohs.jpg"
+    },
+    {
+      "id": 14,
+      "name": "윤의웅",
+      "img_name": "14_yeu.jpg"
+    },
+    {
+      "id": 15,
+      "name": "이동우",
+      "img_name": "15_ldu.jpg"
+    },
+    {
+      "id": 16,
+      "name": "이종하",
+      "img_name": "16_ljh.jpg"
+    },
+    {
+      "id": 17,
+      "name": "이택규",
+      "img_name": "17_ltg.jpg"
+    },
+    {
+      "id": 18,
+      "name": "정우영",
+      "img_name": "18_juy.jpg"
+    },
+    {
+      "id": 19,
+      "name": "조완기",
+      "img_name": "19_jwk.jpg"
+    },
+    {
+      "id": 20,
+      "name": "조정훈",
+      "img_name": "20_jjh.jpg"
+    },
+    {
+      "id": 21,
+      "name": "주현민",
+      "img_name": "21_jhm.jpg"
+    }
+  ],
+  "count": 21
+}
