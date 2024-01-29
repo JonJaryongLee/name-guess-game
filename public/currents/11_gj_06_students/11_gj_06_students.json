@@ -108,7 +108,17 @@
       "id": 21,
       "name": "주현민",
       "img_name": "21_jhm.jpg"
+    },
+    {
+      "id": 22,
+      "name": "배도협",
+      "img_name": "22_bdh.jpg"
+    },
+    {
+      "id": 23,
+      "name": "이강원",
+      "img_name": "23_lgw.jpg"
     }
   ],
-  "count": 21
+  "count": 23
 }

@@ -80,11 +80,6 @@
         "img_name": "15_ssu.jpg"
       },
       {
-        "id": 16,
-        "name": "신민섭",
-        "img_name": "16_sms.jpg"
-      },
-      {
         "id": 17,
         "name": "안한서",
         "img_name": "17_ahs.jpg"
@@ -133,6 +128,11 @@
         "id": 26,
         "name": "한동민",
         "img_name": "26_hdm.jpg"
+      },
+      {
+        "id": 27,
+        "name": "이승현",
+        "img_name": "27_lsh.jpg"
       }
     ],
     "count": 26
